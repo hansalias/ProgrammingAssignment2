@@ -20,7 +20,6 @@ makeCacheMatrix <- function(x = matrix()) {
 # in makeCacheMatrix(). In this syntax, the variable "m" can be any letter. j See validation instruction, above.
 
 # cacheSolve returns the inverted form of the submitted matrix.
-
 # When cacheSolve is called, cacheSolve checks to see if there already exists a non-NULL value for m in cache. 
 
 # If cacheSolve finds a non-NULL value for m existing in cache already, it returns that value.  
